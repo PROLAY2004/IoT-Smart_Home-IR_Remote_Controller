@@ -1,0 +1,8 @@
+ATtiny85	Ardino UNO
+---------------------------------
+pin 1		Digital pin 10
+pin 4		GND
+pin 5 		Digital pin 11
+pin 6		Digital pin 12
+pin 7		Digital pin 13
+pin 8		5V 
